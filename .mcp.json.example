@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ccbeu-meta-ads": {
+      "command": "node",
+      "args": [
+        "--env-file=C:\\caminho\\para\\ccbeu-ads-claude\\.env",
+        "C:\\caminho\\para\\meta-ads-mcp\\dist\\index.js"
+      ]
+    }
+  }
+}

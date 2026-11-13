@@ -1,0 +1,19 @@
+# Segredos
+.env
+.env.*
+!.env.example
+
+# Saídas geradas pelas skills
+outputs/
+*.log
+
+# Node / sistema
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Config local do MCP (caminhos da máquina)
+.mcp.json
+
+# Dados brutos de ads (IDs, copy, faturamento)
+data/

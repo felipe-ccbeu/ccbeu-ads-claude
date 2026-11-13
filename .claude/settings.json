@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__ccbeu-meta-ads__create_ad",
+      "mcp__ccbeu-meta-ads__create_adset",
+      "mcp__ccbeu-meta-ads__create_campaign",
+      "mcp__ccbeu-meta-ads__create_audience",
+      "mcp__ccbeu-meta-ads__create_creative",
+      "mcp__ccbeu-meta-ads__update_ad",
+      "mcp__ccbeu-meta-ads__update_adset",
+      "mcp__ccbeu-meta-ads__update_campaign",
+      "mcp__ccbeu-meta-ads__update_budget",
+      "mcp__ccbeu-meta-ads__update_audience",
+      "mcp__ccbeu-meta-ads__toggle_ad",
+      "mcp__ccbeu-meta-ads__toggle_adset",
+      "mcp__ccbeu-meta-ads__toggle_campaign",
+      "mcp__ccbeu-meta-ads__delete_ad",
+      "mcp__ccbeu-meta-ads__delete_adset",
+      "mcp__ccbeu-meta-ads__delete_campaign",
+      "mcp__ccbeu-meta-ads__delete_audience",
+      "mcp__ccbeu-meta-ads__upload_image",
+      "mcp__ccbeu-meta-ads__upload_video",
+      "Bash(curl *graph.facebook.com*)",
+      "Bash(*Invoke-WebRequest*graph.facebook.com*)",
+      "Bash(*Invoke-RestMethod*graph.facebook.com*)",
+      "PowerShell(*graph.facebook.com*)",
+      "Edit(.env)",
+      "Edit(.env.*)",
+      "Edit(.mcp.json)",
+      "Edit(.claude/settings.json)"
+    ]
+  }
+}
